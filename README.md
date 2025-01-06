@@ -1,12 +1,14 @@
-# 💖 Halo, Ini Halaman BuatAma 💖
+# 💖 Welcome to Zylen's GitHub 💖
 
-> Dibuat spesial untuk kamu, **[Pacar Zylen]!** 💕
+> Created with love for **[Pacar Zylen]!** 💕
 
 ## 🌹 Animasi Love 🌹
-Berikut ini adalah animasi love yang aku buat khusus buat kamu 💕
-
-<iframe src="https://zylen.github.io/animasi-love/" width="100%" height="400" style="border:none;"></iframe>
+![Love Animation](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
 ### Tentang Aku:
-- 💌 Aku sayang kamu, dan ini adalah cara kecilku untuk menunjukkan perasaan.
-- 🎨 Semua ini dibuat dengan cinta dan kode, hanya untukmu.
+- 💌 **Sayang kamu banget!** Ini semua hasil kode dan cinta.
+- 🎨 Saya seorang developer yang senang bikin animasi dan proyek.
+- 📫 Hubungi saya di [Instagram](https://www.instagram.com/zylen).
+
+### Proyek Keren:
+- [Animasi Love](https://github.com/zylen/animasi-love)
