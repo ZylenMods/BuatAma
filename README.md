@@ -1,10 +1,12 @@
-# 💖 Halo, Ini Halaman Cinta Zylen 💖
+# 💖 Halo, Ini Halaman BuatAma 💖
 
-> Dibuat spesial untuk kamu! 😊
+> Dibuat spesial untuk kamu, **[Pacar Zylen]!** 💕
 
 ## 🌹 Animasi Love 🌹
-Klik [di sini](https://zylen.github.io/animasi-love/) buat lihat animasinya 💕
+Berikut ini adalah animasi love yang aku buat khusus buat kamu 💕
+
+<iframe src="https://zylen.github.io/animasi-love/" width="100%" height="400" style="border:none;"></iframe>
 
 ### Tentang Aku:
-- 💌 Hanya ingin bilang, **aku sayang kamu!**
-- 🎨 Ini semua dibuat dengan cinta dan kode.
+- 💌 Aku sayang kamu, dan ini adalah cara kecilku untuk menunjukkan perasaan.
+- 🎨 Semua ini dibuat dengan cinta dan kode, hanya untukmu.
