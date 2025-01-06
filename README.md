@@ -3,7 +3,7 @@
 > Created with love for **[Pacar Zylen]!** 💕
 
 ## 🌹 Animasi Love 🌹
-![Love Animation](https://c.tenor.com/Q2Lq_ytIuKAAAAAC/tenor.gif)
+![Love Animation](https://c.tenor.com/NuLWgRNhaxIAAAAd/tenor.gif)
 
 ### Tentang Aku:
 - 💌 **Sayang kamu banget!** Ini semua hasil kode dan cinta.
