@@ -1,6 +1,6 @@
-# 💖 Welcome to Zylen's GitHub 💖
+# 💖 Welcome to Zylen GitHub 💖
 
-> Created with love for **[Pacar Zylen]!** 💕
+> Created with love for **[Amaa]!** 💕
 
 ## 🌹 Animasi Love 🌹
 ![Love Animation](https://c.tenor.com/NuLWgRNhaxIAAAAd/tenor.gif)
